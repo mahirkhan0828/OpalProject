@@ -1,0 +1,29 @@
+.group-317 {
+  align-items: center;
+  background-color: var(--licorice);
+  border-radius: 45px;
+  display: flex;
+  height: 60px;
+  justify-content: flex-end;
+  left: 531px;
+  min-width: 260px;
+  padding: 19px 76px;
+  position: absolute;
+  top: 804px;
+}
+
+.get-started {
+  align-self: flex-end;
+  letter-spacing: 0;
+  min-height: 21px;
+  min-width: 82px;
+  text-align: center;
+}
+
+.group-306 {
+  height: 13px;
+  margin-left: 11px;
+  margin-top: 1.0px;
+  width: 13px;
+}
+

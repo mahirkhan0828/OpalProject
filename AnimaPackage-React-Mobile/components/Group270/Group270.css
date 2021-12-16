@@ -1,0 +1,33 @@
+.group-270 {
+  align-items: flex-start;
+  background-color: #f0f0f0;
+  border: 0.5px solid #c4c4c4;
+  border-radius: 27.5px;
+  display: flex;
+  height: 55px;
+  justify-content: flex-end;
+  margin-top: 23px;
+  min-width: 330px;
+  padding: 9.5px 18.9px;
+}
+
+.enter-email {
+  color: #7d7d7d;
+  font-family: var(--font-family-switzer-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 35px;
+  min-height: 35px;
+  white-space: nowrap;
+  width: 77px;
+}
+
+.group-53 {
+  align-self: center;
+  height: 16px;
+  margin-bottom: 2.0px;
+  margin-left: 198px;
+  width: 16px;
+}
+

@@ -1,0 +1,180 @@
+.component-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 772px;
+  left: 215px;
+  min-width: 924px;
+  position: absolute;
+  top: 970px;
+}
+
+.group-container {
+  height: 773px;
+  margin-left: -61px;
+  margin-top: -0.18px;
+  position: relative;
+  width: 942px;
+}
+
+.group-274 {
+  align-items: flex-start;
+  display: flex;
+  height: 584px;
+  left: 0;
+  min-width: 942px;
+  position: absolute;
+  top: 56px;
+}
+
+.rectangle-140 {
+  align-self: flex-end;
+  height: 455px;
+  width: 368px;
+}
+
+.overlap-group-1 {
+  background-image: url(/static/img/rectangle-139@2x.svg);
+  background-size: 100% 100%;
+  height: 374px;
+  margin-left: 314px;
+  position: relative;
+  width: 258px;
+}
+
+.rectangle-21 {
+  background-color: var(--white-2);
+  border-radius: 45px;
+  height: 42px;
+  left: 86px;
+  position: absolute;
+  top: 23px;
+  width: 151px;
+}
+
+.username {
+  left: 110px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 33px;
+  width: 104px;
+}
+
+.group-309 {
+  align-items: flex-start;
+  background-image: url(/static/img/rectangle-141@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 266px;
+  justify-content: flex-end;
+  left: 472px;
+  min-width: 291px;
+  padding: 14.5px 11.6px;
+  position: absolute;
+  top: 0;
+}
+
+.overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--white-2);
+  border-radius: 45px;
+  display: flex;
+  height: 42px;
+  min-width: 147px;
+  padding: 9.3px 22.3px;
+}
+
+.username-1 {
+  letter-spacing: 0;
+  min-height: 22px;
+  text-align: center;
+  width: 101px;
+}
+
+.overlap-group2 {
+  background-image: url(/static/img/rectangle-135@2x.svg);
+  background-size: 100% 100%;
+  height: 366px;
+  left: 422px;
+  position: absolute;
+  top: 294px;
+  width: 467px;
+}
+
+.rectangle-21-1 {
+  background-color: var(--white-2);
+  border-radius: 45px;
+  height: 44px;
+  left: 275px;
+  position: absolute;
+  top: 16px;
+  width: 175px;
+}
+
+.username-2 {
+  left: 301px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  width: 121px;
+}
+
+.overlap-group3 {
+  background-image: url(/static/img/rectangle-142@2x.svg);
+  background-size: 100% 100%;
+  height: 381px;
+  left: 162px;
+  position: absolute;
+  top: 40px;
+  width: 356px;
+}
+
+.rectangle-21-2 {
+  background-color: var(--white-2);
+  border-radius: 45px;
+  height: 45px;
+  left: 167px;
+  position: absolute;
+  top: 18px;
+  width: 167px;
+}
+
+.username-3 {
+  left: 186px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 30px;
+  width: 124px;
+}
+
+.overlap-group4 {
+  background-image: url(/static/img/rectangle-138@2x.svg);
+  background-size: 100% 100%;
+  height: 228px;
+  left: 238px;
+  position: absolute;
+  top: 545px;
+  width: 340px;
+}
+
+.rectangle-21-3 {
+  background-color: var(--white-2);
+  border-radius: 45px;
+  height: 42px;
+  left: 167px;
+  position: absolute;
+  top: 14px;
+  width: 147px;
+}
+
+.username-4 {
+  left: 198px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  width: 101px;
+}
+

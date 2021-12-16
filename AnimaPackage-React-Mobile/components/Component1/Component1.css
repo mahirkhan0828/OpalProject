@@ -1,0 +1,133 @@
+.component-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 105px;
+  min-height: 767px;
+  width: 270px;
+}
+
+.group-316 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 2px;
+  min-height: 129px;
+  width: 264px;
+}
+
+.group-190 {
+  height: 23px;
+  margin-left: -1.0px;
+  margin-top: -1px;
+  width: 23px;
+}
+
+.x-art {
+  height: 33px;
+  letter-spacing: 0;
+  margin-top: 9px;
+}
+
+.post-your-content-to {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 17px;
+  min-height: 48px;
+  width: 260px;
+}
+
+.group-315 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 70px;
+  min-height: 153px;
+  width: 274px;
+}
+
+.group-194 {
+  height: 23px;
+  margin-left: 1px;
+  margin-top: -1px;
+  width: 23px;
+}
+
+.discover-a-community,
+.profit-off-your-art {
+  height: 33px;
+  letter-spacing: 0;
+  margin-left: 2px;
+  margin-top: 9px;
+}
+
+.get-inspired-by-your {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 17px;
+  min-height: 72px;
+  width: 270px;
+}
+
+.group-314 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 70px;
+  min-height: 130px;
+  width: 274px;
+}
+
+.group-196 {
+  height: 24px;
+  margin-left: 1px;
+  margin-top: -1px;
+  width: 24px;
+}
+
+.sell-your-content-as {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 17px;
+  min-height: 48px;
+  width: 270px;
+}
+
+.group-313 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 2px;
+  margin-top: 70px;
+  min-height: 145px;
+  width: 264px;
+}
+
+.overlap-group-2 {
+  align-items: flex-end;
+  background-image: url(/static/img/vector@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 24px;
+  justify-content: flex-end;
+  margin-left: -1px;
+  margin-top: -1px;
+  min-width: 24px;
+  padding: 7.3px 7.3px;
+}
+
+.rectangle-89 {
+  border: 1.5px solid var(--white);
+  border-radius: 1px;
+  height: 9px;
+  transform: rotate(45.00deg);
+  width: 9px;
+}
+
+.invest-in-other-crea {
+  letter-spacing: 0;
+  margin-top: 17px;
+  min-height: 63px;
+  width: 260px;
+}
+

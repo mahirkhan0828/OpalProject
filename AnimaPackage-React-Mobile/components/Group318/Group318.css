@@ -1,0 +1,28 @@
+.group-318 {
+  align-items: flex-start;
+  border: 2px solid var(--white);
+  border-radius: 45px;
+  display: flex;
+  height: 60px;
+  justify-content: flex-end;
+  margin-right: 6.0px;
+  margin-top: 30px;
+  min-width: 260px;
+  padding: 18px 60px;
+}
+
+.get-started-1 {
+  letter-spacing: 0;
+  min-height: 21px;
+  min-width: 82px;
+  text-align: center;
+}
+
+.group-306-1 {
+  align-self: center;
+  height: 13px;
+  margin-bottom: 3.0px;
+  margin-left: 38px;
+  width: 13px;
+}
+
